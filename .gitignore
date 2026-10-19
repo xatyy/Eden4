@@ -1,0 +1,30 @@
+# Build output
+build/
+out/
+*.pkg
+*.oelf
+*.elf
+*.o
+/eden/.cache
+/tools/pacbrew/downloads/*.pkg.tar.*
+/tools/pacbrew/downloads/pacbrew.db
+/tools/jit-harness/build/
+/tools/jit-harness/data/
+/tools/jit-harness/guest/out*/
+
+# Console data that must never be published
+*.keys
+prod.keys
+title.keys
+*.nsp
+*.xci
+*.nca
+*.nro
+!eden/ps4/**/*.nro
+*.log
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+__pycache__/

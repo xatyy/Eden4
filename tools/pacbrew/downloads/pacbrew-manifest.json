@@ -1,0 +1,272 @@
+[
+  {
+    "NAME": "ps4-openorbis-bzip2",
+    "FILENAME": "ps4-openorbis-bzip2-1.0.6-3-any.pkg.tar.xz",
+    "SHA256SUM": "de5e4b3441326b47c9e57693d7e86bc837070c6af4581d60ccdbdb6230f3ffcb",
+    "CSIZE": "34792"
+  },
+  {
+    "NAME": "ps4-openorbis-clang",
+    "FILENAME": "ps4-openorbis-clang-12.0.1-1-any.pkg.tar.xz",
+    "SHA256SUM": "3b59bd92595e0d556f89a462e41cc782d0dda3bfdd712d194b684340f3465fe2",
+    "CSIZE": "255524816"
+  },
+  {
+    "NAME": "ps4-openorbis-create-fself",
+    "FILENAME": "ps4-openorbis-create-fself-1.2-3-any.pkg.tar.xz",
+    "SHA256SUM": "1e4780a0b7a77ca0005ab3f6244fac0c1bd1a3576b72b27e936a3227a5aa1fe6",
+    "CSIZE": "1267708"
+  },
+  {
+    "NAME": "ps4-openorbis-create-gp4",
+    "FILENAME": "ps4-openorbis-create-gp4-1.0-5-any.pkg.tar.xz",
+    "SHA256SUM": "3e3d478e35444f52088aa69457b247a93bde0dbbda5962783314f9b8629b1b1a",
+    "CSIZE": "1171384"
+  },
+  {
+    "NAME": "ps4-openorbis-ffmpeg",
+    "FILENAME": "ps4-openorbis-ffmpeg-5.0-5-any.pkg.tar.xz",
+    "SHA256SUM": "84ac95ed3f66aead48b21ec8b2213a58c06c82e0168450fae9e0e49eba7aecfb",
+    "CSIZE": "7755100"
+  },
+  {
+    "NAME": "ps4-openorbis-flac",
+    "FILENAME": "ps4-openorbis-flac-1.3.2-2-any.pkg.tar.xz",
+    "SHA256SUM": "d5b275616622da779bec0f8e690b4d86e51593f345d1b75982212c8130f32d2a",
+    "CSIZE": "161104"
+  },
+  {
+    "NAME": "ps4-openorbis-freegnm",
+    "FILENAME": "ps4-openorbis-freegnm-1.0.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "86e89037e5a717564ec72b0b31a909bc7877935168bb3c5b3a4f9db859569f12",
+    "CSIZE": "555180"
+  },
+  {
+    "NAME": "ps4-openorbis-freetype",
+    "FILENAME": "ps4-openorbis-freetype-2.10.1-3-any.pkg.tar.xz",
+    "SHA256SUM": "a084e5b84f3c39d5bd59ac53dbfdc97f7d74cdad9f439ec4454f8d57c134d6e3",
+    "CSIZE": "477332"
+  },
+  {
+    "NAME": "ps4-openorbis-glm",
+    "FILENAME": "ps4-openorbis-glm-0.9.9.8-2-any.pkg.tar.xz",
+    "SHA256SUM": "63d797098ce710364067e7c0d1ab965fd578930fffd2a293bc545807e3a37e62",
+    "CSIZE": "185504"
+  },
+  {
+    "NAME": "ps4-openorbis-headers",
+    "FILENAME": "ps4-openorbis-headers-0.5.2-4-any.pkg.tar.xz",
+    "SHA256SUM": "056c7fe8b1874f144d3d67464e96a779ff82a230b3179ba4ec43cd5b392c38d7",
+    "CSIZE": "37990512"
+  },
+  {
+    "NAME": "ps4-openorbis-libarchive",
+    "FILENAME": "ps4-openorbis-libarchive-3.3.2-3-any.pkg.tar.xz",
+    "SHA256SUM": "1af5aa0f25ad7791e1ad12f4540849c5ff88ba21ee2eb7362e4db92da3fc0658",
+    "CSIZE": "320548"
+  },
+  {
+    "NAME": "ps4-openorbis-libass",
+    "FILENAME": "ps4-openorbis-libass-0.14.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "4dc0c2736be2970f961f781960ff3e80cdcfc4a88ac1d382b1a15f7d55c36ebf",
+    "CSIZE": "96468"
+  },
+  {
+    "NAME": "ps4-openorbis-libconfig",
+    "FILENAME": "ps4-openorbis-libconfig-1.7.3-3-any.pkg.tar.xz",
+    "SHA256SUM": "e5576042b5f52b8a98eae1f4a7aadde117d040fa7118b08823b49f410130c05a",
+    "CSIZE": "40400"
+  },
+  {
+    "NAME": "ps4-openorbis-libcurl",
+    "FILENAME": "ps4-openorbis-libcurl-7.80.0-3-any.pkg.tar.xz",
+    "SHA256SUM": "249c987a8e41e1b7d320cd3129aa1752416dc19e830714d5a38be6c977f5db98",
+    "CSIZE": "287876"
+  },
+  {
+    "NAME": "ps4-openorbis-libcxx",
+    "FILENAME": "ps4-openorbis-libcxx-12.0.1-1-any.pkg.tar.xz",
+    "SHA256SUM": "26a230e2d53d1ed11732242e7c131d87719d187f5a6f3632c3c4786bf14d3416",
+    "CSIZE": "967180"
+  },
+  {
+    "NAME": "ps4-openorbis-libfmt",
+    "FILENAME": "ps4-openorbis-libfmt-8.1.1-2-any.pkg.tar.xz",
+    "SHA256SUM": "8de7b350b0c1b1964a6331babedefb2555ef933d66d56d4890447bdf80303939",
+    "CSIZE": "160424"
+  },
+  {
+    "NAME": "ps4-openorbis-libfribidi",
+    "FILENAME": "ps4-openorbis-libfribidi-1.0.4-2-any.pkg.tar.xz",
+    "SHA256SUM": "e236677e157bb47d9263be2a309495c124dd0c332b53e01e97d643ba24ab9cc1",
+    "CSIZE": "39128"
+  },
+  {
+    "NAME": "ps4-openorbis-libjpeg-turbo",
+    "FILENAME": "ps4-openorbis-libjpeg-turbo-2.1.2-2-any.pkg.tar.xz",
+    "SHA256SUM": "d11fc040331ac8bd731919f64671d2934a5558949f4d54802572bf6695396086",
+    "CSIZE": "227764"
+  },
+  {
+    "NAME": "ps4-openorbis-libjson-c",
+    "FILENAME": "ps4-openorbis-libjson-c-0.15-2-any.pkg.tar.xz",
+    "SHA256SUM": "4ea32ab597afdfded04a0bf873d55d116fa4fd1cf9c45bd6eaa1604e9fda7979",
+    "CSIZE": "52152"
+  },
+  {
+    "NAME": "ps4-openorbis-libmodplug",
+    "FILENAME": "ps4-openorbis-libmodplug-0.8.9.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "b79c8ec460e8de5c2d0758787243c0c10c84a9c835b7cabfe6f0502cd176b234",
+    "CSIZE": "178900"
+  },
+  {
+    "NAME": "ps4-openorbis-libmpq",
+    "FILENAME": "ps4-openorbis-libmpq-1.0.0-3-any.pkg.tar.xz",
+    "SHA256SUM": "abaa8f434493f9f759acc73d87663a9c65734443eeb65b10dabf04d4d68e9d09",
+    "CSIZE": "30520"
+  },
+  {
+    "NAME": "ps4-openorbis-libmpv",
+    "FILENAME": "ps4-openorbis-libmpv-0.34.1-6-any.pkg.tar.xz",
+    "SHA256SUM": "743d6ef7ef37d94e9aa04ce86d928f7d5fb65ead8ea901191879227f07946abd",
+    "CSIZE": "2364800"
+  },
+  {
+    "NAME": "ps4-openorbis-libogg",
+    "FILENAME": "ps4-openorbis-libogg-1.3.4-2-any.pkg.tar.xz",
+    "SHA256SUM": "2484daf8cf3912fffeb82faa836cd613d5e3429d047dfc5a548390dbd10f29e1",
+    "CSIZE": "196880"
+  },
+  {
+    "NAME": "ps4-openorbis-libopus",
+    "FILENAME": "ps4-openorbis-libopus-1.3-2-any.pkg.tar.xz",
+    "SHA256SUM": "30294216af18d0ac759f3b59ccf5eb2538dab9acb02a93d0d458a36432debfce",
+    "CSIZE": "274612"
+  },
+  {
+    "NAME": "ps4-openorbis-libpng",
+    "FILENAME": "ps4-openorbis-libpng-1.6.37-3-any.pkg.tar.xz",
+    "SHA256SUM": "abf49d48a24397c6a2f163fd60344458b662c9411eec215830c4b3d464d0cbb2",
+    "CSIZE": "205516"
+  },
+  {
+    "NAME": "ps4-openorbis-libsamplerate",
+    "FILENAME": "ps4-openorbis-libsamplerate-0.1.9-2-any.pkg.tar.xz",
+    "SHA256SUM": "2000952080e06210a6a2db891d84ada45e4a52b5063cecd626c82faa11ce2f79",
+    "CSIZE": "981260"
+  },
+  {
+    "NAME": "ps4-openorbis-libsodium",
+    "FILENAME": "ps4-openorbis-libsodium-1.0.18-2-any.pkg.tar.xz",
+    "SHA256SUM": "cbc0c85243cda1b87b45fe572b07354c32d9e959b87ab0cc43df450309423f1f",
+    "CSIZE": "240984"
+  },
+  {
+    "NAME": "ps4-openorbis-libvorbis",
+    "FILENAME": "ps4-openorbis-libvorbis-1.3.7-2-any.pkg.tar.xz",
+    "SHA256SUM": "10f43668c10e759f43bf59a93d0d5ab3a123c91e5d06075625036a01e49980b5",
+    "CSIZE": "201388"
+  },
+  {
+    "NAME": "ps4-openorbis-libvpx",
+    "FILENAME": "ps4-openorbis-libvpx-1.8.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "1fcf21b4745e6fc7ac950032c7ba46c4525577a576b6d74d11ec649413109447",
+    "CSIZE": "657360"
+  },
+  {
+    "NAME": "ps4-openorbis-libwebp",
+    "FILENAME": "ps4-openorbis-libwebp-1.2.1-2-any.pkg.tar.xz",
+    "SHA256SUM": "40bb42edf5dcc55d9fac2028105b57dd42fc2bad5364b32e5b91902aacef1db0",
+    "CSIZE": "287820"
+  },
+  {
+    "NAME": "ps4-openorbis-mbedtls",
+    "FILENAME": "ps4-openorbis-mbedtls-2.16.6-3-any.pkg.tar.xz",
+    "SHA256SUM": "7fe7ad512c2ccf7b53865433753b9ddcaf6385eed36b8160d93134fa64f0dc58",
+    "CSIZE": "458996"
+  },
+  {
+    "NAME": "ps4-openorbis-mpg123",
+    "FILENAME": "ps4-openorbis-mpg123-1.25.10-2-any.pkg.tar.xz",
+    "SHA256SUM": "50a837e98057aaf41707bab30b133976fa12122cb5c2cbd89a7967e55f9aa914",
+    "CSIZE": "129844"
+  },
+  {
+    "NAME": "ps4-openorbis-musl",
+    "FILENAME": "ps4-openorbis-musl-1.5-2-any.pkg.tar.xz",
+    "SHA256SUM": "9efb4e1c02b2004a79438b106e36bf0d311669cfcfdaa669d46caea462087f3f",
+    "CSIZE": "530196"
+  },
+  {
+    "NAME": "ps4-openorbis-opusfile",
+    "FILENAME": "ps4-openorbis-opusfile-0.11-2-any.pkg.tar.xz",
+    "SHA256SUM": "3634048db842f74501c9da7efe29d93a96c74c831be5e07d23f7c563c61e364e",
+    "CSIZE": "49468"
+  },
+  {
+    "NAME": "ps4-openorbis-orbis-lib-gen",
+    "FILENAME": "ps4-openorbis-orbis-lib-gen-1.3-2-any.pkg.tar.xz",
+    "SHA256SUM": "5ea71a7137a1a98eac09e33c4ed36806ecdf1412a4233e1eb0745e497899ec52",
+    "CSIZE": "419060"
+  },
+  {
+    "NAME": "ps4-openorbis-pkg-config",
+    "FILENAME": "ps4-openorbis-pkg-config-1.0.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "e0dc003c1011c158acc23d3de7b755f8b859b2a34a929aa351b9060e706a3f7a",
+    "CSIZE": "1756"
+  },
+  {
+    "NAME": "ps4-openorbis-pkgtools",
+    "FILENAME": "ps4-openorbis-pkgtools-0.2.231-5-any.pkg.tar.xz",
+    "SHA256SUM": "49a97e56dbe35a9986461e9001e756029fdb39f427d0acff7d75cf3f721e533d",
+    "CSIZE": "22907516"
+  },
+  {
+    "NAME": "ps4-openorbis-readoelf",
+    "FILENAME": "ps4-openorbis-readoelf-1.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "4a710c49a004ecb3e4daf64d5faf17415e11e3ffeb88677eef6a17eed0f3c16f",
+    "CSIZE": "1077972"
+  },
+  {
+    "NAME": "ps4-openorbis-sdl2",
+    "FILENAME": "ps4-openorbis-sdl2-2.0.18-16-any.pkg.tar.xz",
+    "SHA256SUM": "d447992bfe198bbe08230fbeb512e30d90aa3e03f0561e2041fe2c4d7da32bb2",
+    "CSIZE": "657888"
+  },
+  {
+    "NAME": "ps4-openorbis-sdl2_image",
+    "FILENAME": "ps4-openorbis-sdl2_image-2.0.5-2-any.pkg.tar.xz",
+    "SHA256SUM": "206ad947b45f1ae275542afee272e856997eee036a0cf8b9ee8e7425d40bc4a8",
+    "CSIZE": "75572"
+  },
+  {
+    "NAME": "ps4-openorbis-sdl2_mixer",
+    "FILENAME": "ps4-openorbis-sdl2_mixer-2.0.4-2-any.pkg.tar.xz",
+    "SHA256SUM": "c7d2874c258d6526fb6d1eb45c6c18da71f92dac178a3681ae555ff39ce62956",
+    "CSIZE": "72376"
+  },
+  {
+    "NAME": "ps4-openorbis-sdl2_ttf",
+    "FILENAME": "ps4-openorbis-sdl2_ttf-2.0.15-2-any.pkg.tar.xz",
+    "SHA256SUM": "19b02a4b4bc7f5fce2014a09e7b15b9f70b23a5aa1f12574ff65b2025b474a39",
+    "CSIZE": "19116"
+  },
+  {
+    "NAME": "ps4-openorbis-tinyxml2",
+    "FILENAME": "ps4-openorbis-tinyxml2-9.0.0-2-any.pkg.tar.xz",
+    "SHA256SUM": "99522f6d7f76ea7b40bfd7225c6ef431bc60f66071ece236a2d9961441dd50b7",
+    "CSIZE": "45592"
+  },
+  {
+    "NAME": "ps4-openorbis-vars",
+    "FILENAME": "ps4-openorbis-vars-1.1-3-any.pkg.tar.xz",
+    "SHA256SUM": "ad2353896b1a63e72e52ce52ff490f90682a0e3c24f1a98229881f685ac3fbcf",
+    "CSIZE": "4440"
+  },
+  {
+    "NAME": "ps4-openorbis-zlib",
+    "FILENAME": "ps4-openorbis-zlib-1.3.1-2-any.pkg.tar.xz",
+    "SHA256SUM": "2b082d25f34d923e2fd35e0b5f29b19e142e263da4380665bb0e80f0a6378700",
+    "CSIZE": "103412"
+  }
+]

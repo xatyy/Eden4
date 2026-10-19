@@ -1,0 +1,22 @@
+--- a/crypto/bio/bss_dgram.c
++++ b/crypto/bio/bss_dgram.c
+@@ -33,7 +33,7 @@
+ #define IPPROTO_IPV6 41 /* windows is lame */
+ #endif
+ 
+-#if defined(__FreeBSD__) && defined(IN6_IS_ADDR_V4MAPPED)
++#if defined(__FreeBSD__) && !defined(__OPENORBIS__) && defined(IN6_IS_ADDR_V4MAPPED)
+ /* Standard definition causes type-punning problems. */
+ #undef IN6_IS_ADDR_V4MAPPED
+ #define s6_addr32 __u6_addr.__u6_addr32
+--- a/crypto/o_str.c
++++ b/crypto/o_str.c
+@@ -377,7 +377,7 @@
+ {
+ #if defined(_MSC_VER) && _MSC_VER >= 1400 && !defined(_WIN32_WCE)
+     return !strerror_s(buf, buflen, errnum);
+-#elif defined(_GNU_SOURCE)
++#elif defined(_GNU_SOURCE) && !defined(__OPENORBIS__)
+     char *err;
+ 
+     /*

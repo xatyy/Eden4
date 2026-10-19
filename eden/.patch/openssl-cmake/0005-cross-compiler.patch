@@ -1,0 +1,21 @@
+--- a/cmake/ConfigureOpenSSL.cmake
++++ b/cmake/ConfigureOpenSSL.cmake
+@@ -92,6 +92,18 @@
+         ${ARGN}
+     )
+ 
++    if(PS4)
++        list(APPEND CONFIGURE_OPTIONS no-devcryptoeng no-dso no-module no-async)
++    endif()
++    if(CMAKE_CROSSCOMPILING)
++        set(openssl_cc "${CMAKE_C_COMPILER}")
++        if(CMAKE_C_COMPILER_TARGET)
++            string(APPEND openssl_cc " --target=${CMAKE_C_COMPILER_TARGET}")
++        endif()
++        list(APPEND CONFIGURE_OPTIONS
++            "CC=${openssl_cc}" "AR=${CMAKE_AR}" "RANLIB=${CMAKE_RANLIB}")
++    endif()
++
+     message(STATUS "Curruent configure options : ${CONFIGURE_OPTIONS}")
+ 
+     # Find previous configure results

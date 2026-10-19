@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.20)
+project(eden_ps4_diagnostics LANGUAGES C CXX)
+
+if(NOT PS4)
+    message(FATAL_ERROR "Configure with runtime/toolchain/ps4-love-modern.cmake")
+endif()
+set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+get_filename_component(DOLPHIN_PS4_DEFAULT "${CMAKE_CURRENT_SOURCE_DIR}/../../../DolphinPS4" ABSOLUTE)
+set(DOLPHIN_PS4_ROOT "${DOLPHIN_PS4_DEFAULT}" CACHE PATH "DolphinPS4 runtime checkout")
+include("${DOLPHIN_PS4_ROOT}/toolchain/ps4-love-style.cmake")
+
+add_executable(eden-ps4-diagnostics main.cpp ${PS4_RUNTIME_SOURCES})
+target_compile_options(eden-ps4-diagnostics PRIVATE -Wall -Wextra)
+target_link_libraries(eden-ps4-diagnostics PRIVATE SceSysmodule SceSystemService SceUserService SceVideoOut pthread)
+ps4_add_eboot(eden-ps4-diagnostics)
